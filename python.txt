@@ -1,0 +1,10 @@
+varun
+1. git init
+2. git status
+3. git add .
+4. git status
+5. git remote add origin https://github.com/psvarun5969/apssdc_144.git
+6. git config --global user.name 'psvarun5969'
+7. git config --glabal user.email 'psvarun5969@gmail.com'
+8. git commit -m 'my second commit'
+9. git push origin master
