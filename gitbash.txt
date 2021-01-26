@@ -1,0 +1,6 @@
+1. git status: to check it is tracking or in  tracking
+2. git add .: . represents all files
+3. no need remote
+4. no need to config
+5. git commit -m "adding gitbash file"
+6. git push origin master
